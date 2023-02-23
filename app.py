@@ -13,6 +13,7 @@ from resources.db import db
 from blocklist import BLOCKLIST
 import models
 
+
 from resources.store import blb as StoreBlueprint
 from resources.item import blb as ItemBlueprint
 from resources.tag import blp as TagBlueprint
